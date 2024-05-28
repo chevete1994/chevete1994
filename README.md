@@ -2,9 +2,9 @@
 
 meu nome é Gabriel
 
--Estou estudando na escola PTQ
--estou me desenvolvendona linguagem javaScript
--utilizo esse espaço para minha organização e compartilhamentodos meu projetos desenvolvidos
+- Estou estudando na escola PTQ
+- Estou me desenvolvendona linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamentodos meu projetos desenvolvidos
 
 ### você entrar em contat📪
 
